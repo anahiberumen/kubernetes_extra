@@ -16,5 +16,4 @@ spec:
           image: nginx
           ports:
             - containerPort: 80
-    # Aquí se define la política de restauració en caso de que el pod se detenga o deje de ejecutarse debido a un fallo interno.
-    restartPolicy: Always
+
