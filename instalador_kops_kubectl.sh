@@ -1,6 +1,6 @@
 #!/bin/bash
 #Script para instalar kops y kubectl, además los ubica en el path
-echo "Script de instalación para Kops y Kubectl"
+echo "Script de instalacion para Kops y Kubectl"
 sleep 7s
 
 #Se descarga Kops y lo mueve a la carpeta bin
