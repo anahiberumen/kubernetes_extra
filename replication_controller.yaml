@@ -5,7 +5,7 @@ kind: ReplicationController
 # Datos propios del replication controller
 metadata:
     # Nombre del Replication Controller
-    name: my-nginx-replication controller
+    name: my-nginx-replication-controller
 # La especificación del estado deseado que queremos que tenga el pod.
 spec:
     # Número de réplicas que queremos que se encargue de mantener el rc. (Esto creará un pod)
