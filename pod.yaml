@@ -4,7 +4,7 @@ apiVersion: v1
 kind: Pod
 # Aquí van los datos propios del pod como el nombre y los labels que tiene asociados para seleccionarlo
 metadata:
-    name: my-nginx
+    name: my-nginx-pod
     # Especificamos que el pod tenga un label con clave "app" y valor "nginx"
     labels:
         app: nginx
